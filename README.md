@@ -1,3 +1,3 @@
 # Othello
 Purpose of the project : 
-improving algorithmically by coding an othello game in a game console 
+to improve my algorithmic understanding by coding a game of othello in a game console.
